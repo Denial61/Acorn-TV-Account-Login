@@ -7,11 +7,11 @@ How Do I Log In to My Acorn TV Account Easily?
 
 Learn the simple steps to log in to your Acorn TV account and troubleshoot common login issues with ease.
 
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Acorn TV Account Login
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/acorntv-login
+   :target: https://acorntvaccount.com/
 
 Acorn TV has become a favorite streaming platform for fans of British and international television. With a wide variety of dramas, mysteries, and comedies, it offers quality content that appeals to viewers seeking stories beyond the mainstream. Whether you're watching on a smart TV, computer, or mobile device, accessing your account is quick and easy when you know the steps.
 
